@@ -12,3 +12,7 @@
 1. Termux (Include Bootloader):  https://f-droid.org/repo/com.termux_118.apk
 
 2. Kali File manager: https://play.google.com/store/apps/details?id=com.marc.files&hl=en_IN&gl=US&pli=1
+
+Installation Guide:
+
+Step 1: 
