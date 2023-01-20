@@ -13,6 +13,12 @@
 
 2. Kali File manager: https://play.google.com/store/apps/details?id=com.marc.files&hl=en_IN&gl=US&pli=1
 
+3. Kali Linux Nethunter OS: https://kali.download/nethunter-images/kali-2022.4/nethunter-2022.4-zerolte-nougat-kalifs-full.zip
+
+
+
 Installation Guide:
 
-Step 1: 
+Step 1: First download above mention files
+
+
