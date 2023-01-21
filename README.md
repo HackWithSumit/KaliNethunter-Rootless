@@ -17,7 +17,7 @@
 
 
 
-Installation Guide:
+<B>Installation Guide:</B>
 
 Step 1: First download above mention files
 
