@@ -101,6 +101,14 @@ Type:
 And now tap on Enter and boom there we go.
 
  We have not used WGET or updated termux repositories and now we are installing this without any Hassle of error stuff.   
+ 
+ 
+ 
+ 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
+</p>
   
   
   
