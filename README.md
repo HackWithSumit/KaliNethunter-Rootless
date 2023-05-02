@@ -9,7 +9,7 @@ How to install kali nethunter rootless with POC
 
 Installing Kali NetHunter Rootless with Proof of Concept (PoC) involves several steps, including downloading the required files, installing necessary dependencies, and configuring the device. Here is a general guide to the process:
 
-1.  Download the Kali NetHunter Rootless PoC app from a reliable source, such as the official website.
+1.  Download the Kali NetHunter Rootless app from a reliable source, such as the official website.
     
 2.  Install Termux from the Google Play Store, if you haven't already.
     
