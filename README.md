@@ -1,10 +1,11 @@
-> 1 / 1
-> 
-> how to install kali nethunter rootless with poc
+How to install kali nethunter rootless with POC
 
-ChatGPTChatGPT
+<b><h2>This Repositories Under Updation</b></h2>
 
-2 / 2
+
+![211306810-ed25c729-e73b-42f9-a9ea-ff75bbd8ce5c](https://user-images.githubusercontent.com/120317751/235743861-757fda88-513a-4bf6-81db-52492489a002.png)
+
+
 
 Installing Kali NetHunter Rootless with Proof of Concept (PoC) involves several steps, including downloading the required files, installing necessary dependencies, and configuring the device. Here is a general guide to the process:
 
@@ -58,3 +59,5 @@ Note that this is a general guide, and the exact steps may vary depending on the
 Was this response better or worse?
 
 Was this response better or worse?
+
+
