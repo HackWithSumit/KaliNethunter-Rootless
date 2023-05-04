@@ -17,7 +17,7 @@ Installing Kali NetHunter Rootless with Proof of Concept (PoC) involves several 
     
 3.  Open Termux and type the following command to update the repository:
     
-    sql
+  
     
     ```sql
     apt update
@@ -29,10 +29,9 @@ Installing Kali NetHunter Rootless with Proof of Concept (PoC) involves several 
     
 5.  Download the Kali NetHunter Rootless PoC installer script by running the following command:
     
-    arduino
     
     ```arduino
-    wget -O install-nethunter-termux https://offs.ec/2MceZWr
+    wget -O https://kali.download/nethunter-images/kali-2023.1/nethunter-2023.1-zerolte-nougat-kalifs-full.zip
     ```
     
 6.  Give the script execute permissions by running the following command:
@@ -45,7 +44,7 @@ Installing Kali NetHunter Rootless with Proof of Concept (PoC) involves several 
     
 7.  Run the installer script by entering the following command:
     
-    bash
+ 
     
     ```bash
     ./install-nethunter-termux
