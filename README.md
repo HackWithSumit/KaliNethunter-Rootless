@@ -15,11 +15,15 @@
 
 Download: 
 
+     https://f-droid.org/repo/com.termux_118.apk
+
 <b> Files </b>
 
 ![image](https://user-images.githubusercontent.com/120317751/236640726-fdf5ed84-331c-4a8a-b2d2-e190cdb9e24a.png)
 
-Download: https://play.google.com/store/apps/details?id=com.marc.files&hl=en&gl=US
+Download: 
+
+     https://play.google.com/store/apps/details?id=com.marc.files&hl=en&gl=US
 
 
 
