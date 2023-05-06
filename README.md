@@ -1,29 +1,20 @@
 # Kali Nethunter 2023.1
 
+![201-2015653_kali-nethunter-logo-kali-nethunter-logo-removebg-preview](https://user-images.githubusercontent.com/120317751/236642782-9c6c8632-af6e-44f2-a90e-665fc14b121c.png)
+--------------------------------------------------------------
+
+Requirements:
+
+![image](https://user-images.githubusercontent.com/120317751/236643101-1fcc78df-6aab-4148-aa95-c781ffbfb896.png)
+
+<b> Termux </b>
+
+![image](https://user-images.githubusercontent.com/120317751/236643326-a9cb3bba-ebbc-41c4-abb9-642bf85aaed4.png)
+
+<b> Nethunter KeX </b>
 
 
-![211306810-ed25c729-e73b-42f9-a9ea-ff75bbd8ce5c](https://user-images.githubusercontent.com/120317751/235743861-757fda88-513a-4bf6-81db-52492489a002.png)
 
-
-<b><h3>Step 1: Downloading neccesaary files</b></h3>
-
-<b>Requirements:</b>
-
-<B> Termux : </b>
-
-![image](https://user-images.githubusercontent.com/120317751/236640185-ca88a8b7-2bd9-483d-ac0a-4a50f9b0f917.png)
-
-Download: 
-
-     https://f-droid.org/repo/com.termux_118.apk
-
-<b> Files </b>
-
-![image](https://user-images.githubusercontent.com/120317751/236640726-fdf5ed84-331c-4a8a-b2d2-e190cdb9e24a.png)
-
-Download: 
-
-     https://play.google.com/store/apps/details?id=com.marc.files&hl=en&gl=US
 
 
 
