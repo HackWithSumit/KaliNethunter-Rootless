@@ -7,4 +7,12 @@
 
 <b><h3>Step 1: Downloading neccesaary files</b></h3>
 
+<b>Requirements:</b>
+
+<B> Termux : </b>
+
+![image](https://user-images.githubusercontent.com/120317751/236640185-ca88a8b7-2bd9-483d-ac0a-4a50f9b0f917.png)
+
+Download: 
+
 
