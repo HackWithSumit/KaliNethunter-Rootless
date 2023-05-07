@@ -25,5 +25,14 @@ Installatiion Steps:
 
 
 
+Step 2: Download Kali Linux ISO & Bash Script
+
+
+![My project (2)](https://user-images.githubusercontent.com/120317751/236660506-c112e847-beb7-4f08-aee0-9e69eec00b67.jpg)
+
+
+
+
+
 
 
