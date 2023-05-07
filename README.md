@@ -26,5 +26,10 @@ Downloaded 3 apps
 
 ![20230507_111400](https://user-images.githubusercontent.com/120317751/236660039-c43cb4bf-73b9-4909-a8a9-9c0d2d250646.jpg)
 
+Kali Linux ISO & Bash Script
+
+![20230507_105957](https://user-images.githubusercontent.com/120317751/236660121-736a3e5e-d3cd-449d-bf97-e76057a12b45.jpg)
+
+
 
 
