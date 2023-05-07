@@ -18,3 +18,13 @@ Requirements:
 <b> Files </b> : https://play.google.com/store/apps/details?id=com.marc.files&hl=en&gl=US
 
 
+Installatiion Steps:
+
+Step 1: 
+
+Downloaded 3 apps
+
+![20230507_111400](https://user-images.githubusercontent.com/120317751/236660039-c43cb4bf-73b9-4909-a8a9-9c0d2d250646.jpg)
+
+
+
