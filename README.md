@@ -31,6 +31,11 @@ Step 2: Download Kali Linux ISO & Bash Script
 ![My project (2)](https://user-images.githubusercontent.com/120317751/236660506-c112e847-beb7-4f08-aee0-9e69eec00b67.jpg)
 
 
+Kali Nethunter ISO:  https://kali.download/nethunter-images/kali-2023.1/nethunter-2023.1-generic-arm64-kalifs-full.zip
+
+
+![image](https://user-images.githubusercontent.com/120317751/236959915-8fd54268-8c67-4b83-9aa9-8e08d782af83.png)
+
 
 
 
