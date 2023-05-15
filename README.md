@@ -33,6 +33,14 @@ Download Kali Nethunter & Bash Script:
 
 
 
+Bash Script : https://github.com/HackWithSumit/KaliNethunter-Rootless/releases/download/NethunterBashScript/install-nethunter-termux.1
+
+Kali Nethunter OS : 
+
+
+
+
+
 
 
 
