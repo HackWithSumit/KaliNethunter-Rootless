@@ -37,6 +37,18 @@ Bash Script : https://github.com/HackWithSumit/KaliNethunter-Rootless/releases/d
 
 Kali Nethunter OS : https://kali.download/nethunter-images/kali-2023.1/nethunter-2023.1-generic-arm64-kalifs-full.zip
 
+Step 3 : 
+
+Then Open Termux & type Below Command 
+
+      termux-setup-storage
+      
+      
+Then Give Storage Persmission      
+
+
+
+
 
 
 
