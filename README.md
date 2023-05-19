@@ -48,7 +48,10 @@ Then Give Storage Persmission
 
 ![20230515_172541](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/9d0f6971-c728-4835-b465-53d590cd6784)
 
+Then Open Files app Copy Bash script & OS File to the termux directory
 
+
+![ezgif com-resize](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/f783ec67-f055-46ec-b9c1-badfc183672c)
 
 
 
