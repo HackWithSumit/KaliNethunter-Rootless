@@ -53,6 +53,17 @@ Then Open Files app Copy Bash script & OS File to the termux directory
 
 ![ezgif com-video-to-gif](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/f4d2cda4-f490-469c-bf15-e9fde1cfbed0)
 
+Then Execute Bash Script With below command
+
+       chmod +x install-nethunter-termux
+
+
+
+
+
+Then Run Installation Kali Nethunter with below command
+
+       ./install-nethunter-termux
 
 
 
