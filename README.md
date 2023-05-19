@@ -46,6 +46,9 @@ Then Open Termux & type Below Command
       
 Then Give Storage Persmission      
 
+![20230515_172541](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/9d0f6971-c728-4835-b465-53d590cd6784)
+
+
 
 
 
