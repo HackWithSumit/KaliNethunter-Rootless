@@ -1,10 +1,9 @@
-# Kali Nethunter 2023.1
-
+# Kali Nethunter 2023.1 --> 2023.2
 ![201-2015653_kali-nethunter-logo-kali-nethunter-logo-removebg-preview](https://user-images.githubusercontent.com/120317751/236642782-9c6c8632-af6e-44f2-a90e-665fc14b121c.png)
 --------------------------------------------------------------
 
 
-![image](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/f6dbab8e-189c-4471-a827-0d8e1c08b80c)
+
 
 
 Requirements:
