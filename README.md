@@ -38,7 +38,9 @@ Download Kali Nethunter & Bash Script:
 
 Bash Script : https://github.com/HackWithSumit/KaliNethunter-Rootless/releases/download/NethunterBashScript/install-nethunter-termux.1
 
-Kali Nethunter OS : https://kali.download/nethunter-images/kali-2023.1/nethunter-2023.1-generic-arm64-kalifs-full.zip
+Kali Nethunter OS 2023.1 : https://kali.download/nethunter-images/kali-2023.1/nethunter-2023.1-generic-arm64-kalifs-full.zip
+
+Kali Nethunter OS 2023.2 : https://kali.download/nethunter-images/kali-2023.2/nethunter-2023.2-generic-arm64-kalifs-full.zip
 
 Step 3 : 
 
