@@ -1,91 +1,68 @@
-# Kali Nethunter 2023.2 (Installation process changed from August 2023 )
+# KaliNethunter-2023.3
 
-<B><H3> New Process:     https://github.com/HackWithSumit/KaliNethunter-2023.3</b></h3>
-
-<b><h1>**Not working this process**</b></h1>
-
-![image](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/48af5e37-d1f7-46e9-ad67-8d40f070f52b)
-
-
-![201-2015653_kali-nethunter-logo-kali-nethunter-logo-removebg-preview](https://user-images.githubusercontent.com/120317751/236642782-9c6c8632-af6e-44f2-a90e-665fc14b121c.png)
---------------------------------------------------------------
+![image](https://github.com/HackWithSumit/KaliNethunter-2023.3/assets/120317751/4b03e0cb-80cd-4dd9-a09b-d3420c680c15)
 
 
 
 
 
-Requirements:
+<B>1.Download Termux:<b>
 
-![image](https://user-images.githubusercontent.com/120317751/236643101-1fcc78df-6aab-4148-aa95-c781ffbfb896.png)
+       https://f-droid.org/repo/com.termux_118.apk
 
-<b> Termux </b> : https://f-droid.org/repo/com.termux_118.apk
-
-![image](https://user-images.githubusercontent.com/120317751/236643326-a9cb3bba-ebbc-41c4-abb9-642bf85aaed4.png)
-
-<b> Nethunter KeX </b> : https://store.nethunter.com/repo/com.offsec.nethunter.kex_11407306.apk
-
-![My project (1)](https://user-images.githubusercontent.com/120317751/236657894-f01e8a33-9c03-4ea4-9716-709f3b8c31b8.jpg)
-
-<b> Files </b> : https://play.google.com/store/apps/details?id=com.marc.files&hl=en&gl=US
+![image](https://github.com/HackWithSumit/KaliNethunter-2023.3/assets/120317751/0a49be46-993b-4b7c-920e-5cabec8c2c00)
 
 
-Installatiion Steps:
+2.Then launch it and execute the below command:
+        
+        apt update       
 
-<b>Step 1:  Downloaded these 3 apps</b>
+3.Now type in the below command:
 
-![WhatsApp Image 2023-05-15 at 16](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/71ae7dd3-c6ac-42f2-9349-c597ab8e47ac)
+        apt upgrade
 
+4.You’ll get a prompt: Do you want to continue, type in Y and hit Enter.
 
-Step 2 :
+        ---------------------------
 
-Download Kali Nethunter & Bash Script: 
+5.You’ll again get a few prompts. Type in Y and hit Enter for all these prompts.
 
+         --------------------------
 
+6.Again, type in the below command to get wget package information:
 
+        apt update
 
+7.Now type in the below command and grant Storage Access to Termux.
 
-Bash Script : https://github.com/HackWithSumit/KaliNethunter-Rootless/releases/download/NethunterBashScript/install-nethunter-termux.1
+        termux-setup-storage
 
-Kali Nethunter OS 2023.1 : https://kali.download/nethunter-images/kali-2023.1/nethunter-2023.1-generic-arm64-kalifs-full.zip
+8.Then type in the below command. Type Y in the prompt and hit Enter.
 
-Kali Nethunter OS 2023.2 : https://kali.download/nethunter-images/kali-2023.2/nethunter-2023.2-generic-arm64-kalifs-full.zip
+         apt install wget
 
-Step 3 : 
+ 9.When asked, “Do you want to continue” press Y and Enter
 
-Then Open Termux & type Below Command 
+          ---------------------------------
 
-      termux-setup-storage
-      
-      
-Then Give Storage Persmission      
+ 10.Now input the below command to download the NetHunter Installer:
 
-![20230515_172541](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/9d0f6971-c728-4835-b465-53d590cd6784)
+          wget -O install-nethunter-termux https://offs.ec/2MceZWr
 
-Then Open Files app Copy Bash script & OS File to the termux directory
+ 11.Then change its permission via the below command:
 
+          chmod +x install-nethunter-termux
 
-![ezgif com-video-to-gif](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/f4d2cda4-f490-469c-bf15-e9fde1cfbed0)
+  12. Now launch the installer via the below command
 
-Then Execute Bash Script With below command
+          ./install-nethunter-termux
 
-       chmod +x install-nethunter-termux
+  13.The installation will take some time. When asked to delete rootfs, enter N. 
 
+          --> Once done, you’ll be taken to the Kali Linux home screen
 
+          
+         
 
-
-
-Then Run Installation Kali Nethunter with below command
-
-       ./install-nethunter-termux
-
-
-
-![image-removebg-preview](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/ea8a3261-6951-4d93-9686-afc5c488adf1)
-
-
-
-
-
-
-
+        
 
