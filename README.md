@@ -15,7 +15,7 @@
 
        https://f-droid.org/repo/com.termux_118.apk
 
-![image](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/b0937fe9-e73f-4487-8d69-b151859ca0f4)
+![image](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/5feec8c6-ad2f-4b52-8d91-c06b5dd86a62)
 
 
 2.Then launch it and execute the below command:
