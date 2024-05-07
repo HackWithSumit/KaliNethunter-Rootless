@@ -1,8 +1,6 @@
 # KaliNethunter-2023.3
 
-![image](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/87dbf3c5-7f99-499f-ab70-2e1a2c2b1126)
-
-
+![image-removebg-preview (1)](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/c3adc55f-8f13-4cf2-b7ec-f8bf4f9d3fc2)
 
 <p align="center"> 
   Visitor count<br>
