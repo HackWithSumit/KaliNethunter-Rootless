@@ -3,7 +3,7 @@
 ![image-removebg-preview (1)](https://github.com/HackWithSumit/KaliNethunter-Rootless/assets/120317751/c3adc55f-8f13-4cf2-b7ec-f8bf4f9d3fc2)
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count updated <br>
   <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
 </p>
 
